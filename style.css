@@ -10,14 +10,14 @@
 	}
 }
 body {
-	background: linear-gradient(-45deg, #949494, #949494, #818181, #646464);
+	background: linear-gradient(-45deg, #f6f6f6, #ffffff, #ffffff, #ffffff);
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
 	height: 100vh;
 }
 
 .containter{
-    color: white;
+    color: rgb(128, 128, 128);
     text-align: center;
     
 }
@@ -30,17 +30,19 @@ body {
     padding-right: 0%;
 }
 #section1{
-    margin-left: -82%;
+    margin-left: 0%;
     margin-top: 8%;
 }
 #intro{
-    margin-left: -67%;
+    margin-left: 0%;
 }
 #pfp{
     padding-top: 0%;
-    margin-top: 0%;
-    margin-left: -91%;
+    margin-top: -35%;
+    margin-left: 0%;
     border-radius: 10px;
+    text-align: center;
+    
 }
 .section0{
 
